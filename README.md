@@ -24,7 +24,7 @@ Missed appointments cost hospitals both time and resources. By predicting potent
   - `Past_Noshow_count`
 
 ## Exploratory Data Analysis (EDA)
-- Distribution of no-shows by age, gender, waiting days, Medical_Transport, Appointment_Day,
+- Distribution of no-shows by age, gender, waiting days, Medical_Transport, Appointment_Day and more
 - Chi-square tests for feature significance
 - Correlation heatmaps and feature selection
 
