@@ -37,6 +37,13 @@ Models tested:
 **Handling Class Imbalance**: SMOTE applied to balance show/no-show cases.
 
 Confusion matrices and performance plots available in the `/images` folder.
+## Model Comparison (No Show class)
+
+| Model               | Recall | Precision | F1   | ROC AUC |
+|---------------------|--------|-----------|------|---------|
+| Logistic Regression | 0.xx   | 0.xx      | 0.xx | 0.xx    |
+| Random Forest       | 0.xx   | 0.xx      | 0.xx | 0.xx    |
+| XGBoost (final)     | 0.80   | 0.35      | 0.49 | 0.77    |
 
 ## Business Impact
 Predictive insights can help clinic/hospitals:
